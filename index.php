@@ -13,7 +13,7 @@
         echo "my home page";
         echo "hello";
         echo "paragraph prited";
-        
+        echo "<p>this is the <b>third</b> paragraph</p>"
     ?>
 </body>
 </html>
