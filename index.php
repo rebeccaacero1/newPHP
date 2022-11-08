@@ -8,8 +8,11 @@
 </head>
 <body>
     <h1>homepage</h1>
+    <p>this is a paragraph content</p>
     <?php
         echo "my home page";
+        echo "hello";
+        echo "paragraph prited";
         
     ?>
 </body>
